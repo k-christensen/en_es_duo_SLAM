@@ -1,0 +1,62 @@
+Nr,Country,Region,Population,Primary language?
+1,Australia,Oceania,"25,019,600",Yes
+2,New Zealand[1],Oceania,"4,893,830",Yes
+3,United Kingdom,Europe,"66,040,229",Yes
+4,United States,North America/Oceania,"325,719,178",Yes
+1,Antigua and Barbuda[2],Caribbean,"85,000",Yes
+2,Bahamas[2],Caribbean,"331,000",Yes
+3,Barbados[3],Caribbean,"294,000",Yes
+4,Belize[4],Central America,"288,000",Yes
+5,Botswana[4],Africa,"1,882,000",No
+6,Burundi[5],Africa,"10,114,505",No
+7,Cameroon[2],Africa,"22,534,532",No
+8,Canada[2],North America,"35,985,751","Yes (except Quebec, northern New Brunswick)"
+9,Cook Islands14[2],Oceania,"20,000",Yes
+10,Dominica[2],Caribbean,"73,000",Yes
+11,Eswatini[2],Africa,"1,141,000",No
+12,Fiji[2],Oceania,"828,000",No
+13,The Gambia[2],Africa,"1,709,000",No
+14,Ghana[2],Africa,"27,000,000",Yes (used as lingua franca)
+15,Grenada[2],Caribbean,"111,000",Yes (except for small French Creole population)
+16,Guyana[6],South America,"738,000",Yes
+17,India[4][7],Asia,"1,247,540,000",No (but official and educational)
+18,Ireland[8][9],Europe,"4,900,000",Yes (Irish is co-official)
+19,Jamaica[10],Caribbean,"2,714,000",Yes
+20,Kenya[2],Africa,"45,010,056",Yes (in business and education)
+21,Kiribati[2],Oceania,"95,000",No
+22,Lesotho[2],Africa,"2,008,000",No
+23,Liberia[2],Africa,"3,750,000",Yes
+24,Malawi[11],Africa,"16,407,000",No
+25,Malta[2],Europe,"430,000",No (but official and educational)
+26,Marshall Islands[2],Oceania,"59,000",No
+27,Mauritius[2],Africa / Indian Ocean,"1,262,000",No
+28,Federated States of Micronesia[2],Oceania,"110,000",No
+29,Namibia[2],Africa,"2,074,000",No (used as lingua franca)
+30,Nauru[12],Oceania,"10,000",No (but widely spoken)
+31,Nigeria[2][13],Africa,"182,202,000",Yes (used as lingua franca)
+32,Niue14[2],Oceania,"1,600",No
+33,Pakistan[2],Asia,"212,742,631",No (but official and educational)
+34,Palau[4],Oceania,"20,000",No
+35,Papua New Guinea[14][15],Oceania,"7,059,653",Yes
+36,Philippines[2][16],Asia,"102,885,100",Yes (Filipino is co-official)
+37,Rwanda[2],Africa,"11,262,564",No (but official and educational)
+38,Saint Kitts and Nevis[17],Caribbean,"50,000",Yes
+39,Saint Lucia[2],Caribbean,"165,000",Yes
+40,Saint Vincent and the Grenadines[18],Caribbean,"120,000",Yes
+41,Samoa[19],Oceania,"188,000",No
+42,Seychelles[2],Africa / Indian Ocean,"87,000",No
+43,Sierra Leone[2],Africa,"6,190,280",Yes
+44,Singapore[20],Asia,"5,469,700[21]","Yes (used as lingua franca, mostly and widely spoken, and educational)"
+45,Solomon Islands[2],Oceania,"507,000",No
+45.5,Somaliland,Africa,"3,500,000+","No (but official, alongside Somali and Arabic)"
+46,South Africa[22],Africa,"54,956,900","No (but official, educational and lingua franca in formal economy )"
+47,South Sudan[23],Africa,"12,340,000",No
+48,Sudan[2],Africa,"40,235,000",No
+49,Tanzania[2],Africa,"51,820,000",No
+50,Tonga[24],Oceania,"100,000",No
+51,Trinidad and Tobago[2],Caribbean,"1,333,000",Yes
+52,Tuvalu[4],Oceania,"11,000",No
+53,Uganda[2],Africa,"37,873,253",No (official and educational)[25]
+54,Vanuatu[26],Oceania,"226,000",No
+55,Zambia[2],Africa,"16,212,000",No
+56,Zimbabwe[2],Africa,"13,061,239",No (used as lingua franca)

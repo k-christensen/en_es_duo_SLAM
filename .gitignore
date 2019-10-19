@@ -1,0 +1,12 @@
+*.ipynb_checkpoints
+CHANGELOG.md
+CITING.md
+LICENSE.md
+best_estimators.txt
+en_es.slam.20190204.dev
+en_es.slam.20190204.dev.key
+en_es.slam.20190204.test
+en_es.slam.20190204.test.key
+pkl_files/
+starter_code/
+en_es.slam.20190204.train
